@@ -3,6 +3,7 @@
 
   // Array Generic
   type GenericType<T> = Array<T>;
+  type GenericType2<T> = T[];
 
   type NumberType = number[];
   type StringType = string[];
